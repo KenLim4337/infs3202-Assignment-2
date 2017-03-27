@@ -20,7 +20,7 @@
 </head>
 <body>
 
-	//oauth here
+	account page here
 
 </body>
 </html>
